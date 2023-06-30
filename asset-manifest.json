@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/methmika-portfolio/static/css/main.546ee768.css",
+    "main.js": "/methmika-portfolio/static/js/main.495f0286.js",
+    "static/js/787.56d9acf9.chunk.js": "/methmika-portfolio/static/js/787.56d9acf9.chunk.js",
+    "static/media/methmika.png": "/methmika-portfolio/static/media/methmika.ea9bc1406b90f8f94a87.png",
+    "static/media/metha.jpg": "/methmika-portfolio/static/media/metha.d38c321892577323e71c.jpg",
+    "static/media/work1.png": "/methmika-portfolio/static/media/work1.65a6b3490b11ce67ebe7.png",
+    "static/media/work2.png": "/methmika-portfolio/static/media/work2.1cfae5a50dfd4f0b0b1e.png",
+    "static/media/cv.pdf": "/methmika-portfolio/static/media/cv.1f773f60510c1fe92f27.pdf",
+    "static/media/react.png": "/methmika-portfolio/static/media/react.9ccce095c99c1e750f45.png",
+    "static/media/mysql.png": "/methmika-portfolio/static/media/mysql.0f8efe630d6145e0f724.png",
+    "static/media/python.png": "/methmika-portfolio/static/media/python.98758db258eca0559b4f.png",
+    "static/media/tailwind.png": "/methmika-portfolio/static/media/tailwind.13b538de0d2cdc9af1bf.png",
+    "static/media/nodejs.png": "/methmika-portfolio/static/media/nodejs.b7b8e9acfb887bfb7108.png",
+    "static/media/java.png": "/methmika-portfolio/static/media/java.6542f456a5d56afb8758.png",
+    "static/media/html5.png": "/methmika-portfolio/static/media/html5.ed483356935b144d689c.png",
+    "static/media/php.png": "/methmika-portfolio/static/media/php.952bc4beac66e198a8c4.png",
+    "static/media/css3.png": "/methmika-portfolio/static/media/css3.ee80430e4dce3bacf814.png",
+    "static/media/bootstrap.png": "/methmika-portfolio/static/media/bootstrap.3cc730cdd7887dee736f.png",
+    "static/media/mongodb.png": "/methmika-portfolio/static/media/mongodb.1a551edc4388494b3217.png",
+    "static/media/javascript.png": "/methmika-portfolio/static/media/javascript.6af91111d3fa3c0cf6b3.png",
+    "index.html": "/methmika-portfolio/index.html",
+    "main.546ee768.css.map": "/methmika-portfolio/static/css/main.546ee768.css.map",
+    "main.495f0286.js.map": "/methmika-portfolio/static/js/main.495f0286.js.map",
+    "787.56d9acf9.chunk.js.map": "/methmika-portfolio/static/js/787.56d9acf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.546ee768.css",
+    "static/js/main.495f0286.js"
+  ]
+}
