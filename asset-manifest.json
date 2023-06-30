@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/methmika-portfolio/static/css/main.546ee768.css",
-    "main.js": "/methmika-portfolio/static/js/main.6801f7c3.js",
+    "main.js": "/methmika-portfolio/static/js/main.0784bfa6.js",
     "static/js/787.56d9acf9.chunk.js": "/methmika-portfolio/static/js/787.56d9acf9.chunk.js",
     "static/media/methmika.png": "/methmika-portfolio/static/media/methmika.ea9bc1406b90f8f94a87.png",
     "static/media/metha.jpg": "/methmika-portfolio/static/media/metha.d38c321892577323e71c.jpg",
@@ -22,11 +22,11 @@
     "static/media/javascript.png": "/methmika-portfolio/static/media/javascript.6af91111d3fa3c0cf6b3.png",
     "index.html": "/methmika-portfolio/index.html",
     "main.546ee768.css.map": "/methmika-portfolio/static/css/main.546ee768.css.map",
-    "main.6801f7c3.js.map": "/methmika-portfolio/static/js/main.6801f7c3.js.map",
+    "main.0784bfa6.js.map": "/methmika-portfolio/static/js/main.0784bfa6.js.map",
     "787.56d9acf9.chunk.js.map": "/methmika-portfolio/static/js/787.56d9acf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.546ee768.css",
-    "static/js/main.6801f7c3.js"
+    "static/js/main.0784bfa6.js"
   ]
 }
